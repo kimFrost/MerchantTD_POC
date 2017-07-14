@@ -1,0 +1,29 @@
+[
+	{
+		"ID": 'RESOURCE_Apples',
+		"Title": 'Apples',
+		"Price": 10,
+		"Category": ["CATEGORY_FOOD"],
+		"Containers": ["CONTAINER_Basket", "CONTAINER_Bag", "CONTAINER_Barrel", "CONTAINER_Crate", "CONTAINER_Chest"]
+	},
+	{
+		"ID": 'RESOURCE_Fish',
+		"Title": 'Fish',
+		"Price": 20,
+		"Category": ["CATEGORY_FOOD"],
+		"Containers": ["CONTAINER_Basket", "CONTAINER_Bag", "CONTAINER_Barrel", "CONTAINER_Crate", "CONTAINER_Chest"]
+	},
+	{
+		"ID": 'RESOURCE_Ale',
+		"Title": 'Ale',
+		"Price": 50,
+		"Category": ["CATEGORY_Intoxication"],
+		"Containers": ["CONTAINER_Barrel"],
+		"Effect": [
+			{
+				"ID": "STRUCTURE_Tavern",
+				"Quantity": 10
+			}
+		]
+	}
+]

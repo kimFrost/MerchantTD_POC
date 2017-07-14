@@ -1,0 +1,28 @@
+[
+	{
+		"ID": 'CONTAINER_Basket',
+		"Title": 'Basket',
+		"InspectionTime": 5
+	},
+	{
+		"ID": 'CONTAINER_Bag',
+		"Title": 'Bag',
+		"InspectionTime": 10
+	},
+	{
+		"ID": 'CONTAINER_Barrel',
+		"Title": 'Barrel',
+		"InspectionTime": 15
+	},
+	{
+		"Id": 'CONTAINER_Crate',
+		"Title": 'Crate',
+		"Description": 'A'
+		"InspectionTime": 10
+	},
+	{
+		"Id": 'CONTAINER_Chest',
+		"Title": 'Chest',
+		"InspectionTime": 5
+	}
+]

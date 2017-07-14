@@ -1,0 +1,64 @@
+
+
+- Crime
+- Instability
+- Cargo
+- Que system
+
+
+- Can a resource be conceiled under another resource
+
+
+- Pull merchant aside (non-blocking)
+- Pull all merchant aside into que (blocking)
+
+- Brick road (+speed)
+- Dirt road (-speed in rain)
+
+
+- Person
+  - Container x 1
+    - Resource
+
+- Wagon
+  - Container x 8
+    - Resource
+
+
+
+city
+	TArray<Stat> Stats;
+
+
+
+
+
+1 person can carry a basket on bag
+
+
+
+
+
+CreateTableFromJSONString
+
+
+ FString csvFile = FPaths::GameContentDir() + "Downloads\\DownloadedFile.csv";
+ if (FPaths::FileExists(csvFile ))
+ {
+	FString FileContent;
+	//Read the csv file
+	FFileHelper::LoadFileToString(FileContent, *csvFile );
+	TArray<FString> problems = YourDataTable->CreateTableFromCSVString(FileContent);
+
+	if (problems.Num() > 0)
+	{
+		for (int32 ProbIdx = 0; ProbIdx < problems.Num(); ProbIdx++)
+		{        
+			//Log the errors
+		}
+	}
+	else
+	{
+		//Updated Successfully
+	}
+ }
