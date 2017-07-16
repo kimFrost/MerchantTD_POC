@@ -1,28 +1,33 @@
 [
 	{
-		"ID": 'CONTAINER_Basket',
-		"Title": 'Basket',
+		"Name": "CONTAINER_Basket",
+		"ID": "CONTAINER_Basket",
+		"Title": "Basket",
 		"InspectionTime": 5
 	},
 	{
-		"ID": 'CONTAINER_Bag',
-		"Title": 'Bag',
+		"Name": "CONTAINER_Bag",
+		"ID": "CONTAINER_Bag",
+		"Title": "Bag",
 		"InspectionTime": 10
 	},
 	{
-		"ID": 'CONTAINER_Barrel',
-		"Title": 'Barrel',
+		"Name": "CONTAINER_Barrel",
+		"ID": "CONTAINER_Barrel",
+		"Title": "Barrel",
 		"InspectionTime": 15
 	},
 	{
-		"Id": 'CONTAINER_Crate',
-		"Title": 'Crate',
-		"Description": 'A'
+		"Name": "CONTAINER_Crate",
+		"Id": "CONTAINER_Crate",
+		"Title": "Crate",
+		"Description": "A Crate",
 		"InspectionTime": 10
 	},
 	{
-		"Id": 'CONTAINER_Chest',
-		"Title": 'Chest',
+		"Name": "CONTAINER_Chest",
+		"Id": "CONTAINER_Chest",
+		"Title": "Chest",
 		"InspectionTime": 5
 	}
 ]

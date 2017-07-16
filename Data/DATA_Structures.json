@@ -1,16 +1,3 @@
 [
-	{
-		"ID": 'RESOURCE_Opium',
-		"Title": 'Opium',
-		"Price": 250,
-		"Category": ["CATEGORY_Intoxication"],
-		"Containers": ["CONTAINER_Basket", "CONTAINER_Bag", "CONTAINER_Barrel", "CONTAINER_Crate", "CONTAINER_Chest"]
-		"Effect": [
-			{
-				"ID": "STRUCTURE_OpiumDen",
-				"Quantity": 35
-			}
-		]
-	}
 
 ]
