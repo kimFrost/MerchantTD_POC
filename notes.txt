@@ -39,6 +39,39 @@ city
 
 
 
+
+
+
+
+
+
+
+
+- Market
+	- Transaction(Ale) -> Increase alcohol, Increase intoxication, +Entertainment, +Fun
+	- Transaction(Vegetables) -> Increase food supply, Increase housing limit
+	- Transaction(Weapons) -> Increase crime
+
+- City
+	- Stat()
+	
+	
+- Household -> Increase food demand
+- Tavern -> Increase ale demand
+- 
+
+
+- Should player place houses? Or are they just a sign up and increased demand stat. Could be a multiplier stat for all other stats. 
+	- 10 houses = 110% multiplier.
+	
+	
+
+
+
+
+
+
+
 CreateTableFromJSONString
 
 
