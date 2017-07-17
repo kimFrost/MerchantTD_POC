@@ -66,8 +66,9 @@ city
 	
 	
 
-
-
+- Transactions raises supply stat, until it his 100%, then the demand raises by 1 lv, and supply drops to 0% or the modulus value (90% + 15% = 5%).
+	- Stat level up.
+		- Each Stat have a supply(xp) bar.
 
 
 
