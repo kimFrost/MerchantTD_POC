@@ -19,11 +19,13 @@ public:
 		FString ID = "",
 		FString Title = "",
 		float Price = 0,
+		bool Illigal = false,
 		TArray<FString> Categories = TArray<FString>(),
 		TArray<FString> Containers = TArray<FString>())
 		: ID(ID)
 		, Title(Title)
 		, Price(Price)
+		, Illigal(Illigal)
 		, Categories(Categories)
 		, Containers(Containers)
 	{}
@@ -33,6 +35,8 @@ public:
 	FString Title;
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Data")
 	float Price;
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Data")
+	bool Illigal;
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Data")
 	TArray<FString> Categories;
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Data")
