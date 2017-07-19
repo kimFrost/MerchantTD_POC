@@ -104,6 +104,9 @@ CreateTableFromJSONString
  http://eh.net/book_reviews/peasants-merchants-and-markets-inland-trade-in-medieval-england-1150-1350/
  http://www.medieval-life-and-times.info/medieval-life/medieval-merchant.htm
  http://users.trytel.com/tristan/towns/florilegium/ectol_i.html
+ https://en.wikipedia.org/wiki/Economics_of_English_towns_and_trade_in_the_Middle_Ages
+ https://en.wikipedia.org/wiki/Smuggling
+ http://arheo.ffzg.unizg.hr/ska/tekstovi/port_customs.pdf
  
 
 - Plague
