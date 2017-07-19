@@ -96,3 +96,50 @@ CreateTableFromJSONString
 		//Updated Successfully
 	}
  }
+ 
+ 
+ 
+ 19.09.17:
+ https://books.google.dk/books?id=kKbGc-XSsdEC&pg=PA200&lpg=PA200&dq=medieval+toll+trade&source=bl&ots=j_unHogekx&sig=TR-FvNPHw1X3XbWjvU0-wBdikms&hl=da&sa=X&ved=0ahUKEwjtuaaxiZXVAhVIb1AKHbXOBDEQ6AEISjAF#v=onepage&q=medieval%20toll%20trade&f=false
+ http://eh.net/book_reviews/peasants-merchants-and-markets-inland-trade-in-medieval-england-1150-1350/
+ http://www.medieval-life-and-times.info/medieval-life/medieval-merchant.htm
+ http://users.trytel.com/tristan/towns/florilegium/ectol_i.html
+ 
+
+- Plague
+- Prison for crime or prison
+
+- Merchant with contraband is fined or thrown in prison?
+
+
+
+- Tavern (+1 gold every time a merchant passes) 
+- Gallows/Pillory (+1 fear to merchant when passes)
+
+
+
+
+- Trade route (Increase certain resource spawnrates)
+
+
+
+- Food supply lv.1
+- Ale supply lv.1 
+- Rum supply lv.1
+
+- Alchohol supply lv.2 (Ale lv.1 + Rum lv.1)
+
+
+- Black market
+- The king delcare what goods are illigal/bans (drugs, weapons, stolen goods, heathen items, mixtures)
+- Coins are not recieved on market sale, but from merchant paying import taxes on either inspection in tolls or something else.
+
+
+- Trade goods valued, and a 10% tax is payed.
+- Bribes to assess goods a lower value.
+
+ 
+ - Tolls have two functions. To inspect goods and make sure toll is payed.
+ - Inspection can reveal if goods are banned, or if duties haven't been payed. 
+ 
+ 
