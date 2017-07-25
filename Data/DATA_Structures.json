@@ -1,3 +1,10 @@
 [
-
+	{
+		"Name": "STRUCTURE_Household",
+		"ID": "STRUCTURE_Household",
+		"Title": "Household",
+		"Price": 0,
+		"Colums": 3,
+		"Rows": 3
+	}
 ]

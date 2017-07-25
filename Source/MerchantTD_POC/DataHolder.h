@@ -82,10 +82,14 @@ public:
 	FST_Structure(
 		FString ID = "",
 		FString Title = "",
-		float Price = 0)
+		float Price = 0,
+		int Colums = 1,
+		int Rows = 1)
 		: ID(ID)
 		, Title(Title)
 		, Price(Price)
+		, Colums(Colums)
+		, Rows(Rows)
 	{}
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Data")
 	FString ID;
@@ -93,6 +97,10 @@ public:
 	FString Title;
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Data")
 	float Price;
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Data")
+	int Colums;
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Data")
+	int Rows;
 };
 
 
