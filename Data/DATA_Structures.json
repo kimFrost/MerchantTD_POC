@@ -6,5 +6,13 @@
 		"Price": 0,
 		"Colums": 3,
 		"Rows": 3
+	},
+	{
+		"Name": "STRUCTURE_TollBooth",
+		"ID": "STRUCTURE_TollBooth",
+		"Title": "TollBooth",
+		"Price": 0,
+		"Colums": 2,
+		"Rows": 2
 	}
 ]
