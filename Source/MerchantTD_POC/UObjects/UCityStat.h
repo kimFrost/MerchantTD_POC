@@ -10,7 +10,7 @@
  * 
  */
 UCLASS(Blueprintable, BlueprintType)
-class MERCHANTTD_POC_API UCityStat : public UObject
+class MERCHANTTD_POC_API UCityStatTest : public UObject
 {
 	GENERATED_BODY()
 	
