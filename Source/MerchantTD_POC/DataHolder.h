@@ -9,6 +9,10 @@
 
 
 
+//~~~~~ Forward Declarations ~~~~~//
+//class APOTLStructure;
+
+
 /*** FST_Resource ***/
 USTRUCT(BlueprintType)
 struct FST_Resource : public FTableRowBase
@@ -101,6 +105,8 @@ public:
 	int Colums;
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Data")
 	int Rows;
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Data")
+	TSubclassOf<AActor> StructureClass;
 };
 
 

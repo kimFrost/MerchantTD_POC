@@ -5,14 +5,16 @@
 		"Title": "Household",
 		"Price": 0,
 		"Colums": 3,
-		"Rows": 3
+		"Rows": 3,
+		"StructureClass": "Blueprint'/Game/MerchantTD/Blueprint/Actors/Structures/BP_HouseholdLv1.BP_HouseholdLv1_C'"
 	},
 	{
 		"Name": "STRUCTURE_TollBooth",
 		"ID": "STRUCTURE_TollBooth",
 		"Title": "TollBooth",
-		"Price": 0,
+		"Price": 500,
 		"Colums": 2,
-		"Rows": 2
+		"Rows": 2,
+		"StructureClass": "Blueprint'/Game/MerchantTD/Blueprint/Actors/Structures/BP_Toll.BP_Toll_C'"
 	}
 ]
