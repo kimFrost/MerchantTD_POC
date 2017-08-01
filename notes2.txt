@@ -38,6 +38,8 @@ Household
 
 
 
+Wellness raises population cap?
+
 
 - Food => Population lv1 => Pop cap
 - Gold => Wealth
@@ -101,10 +103,31 @@ Household
 - Whaleoil
 - Ambergris
 - Indigo
+- Pots
 - Porcelain
 - Tobacco
 - Sugar
 - Apples
+
+
+
+
+
+
+
+- Household
+- Toll
+- Tollgate
+- Tavern
+- Gallows
+- Pillory
+- Opium den
+
+- Sawmill => Upgrade wood to timber
+- Taylor = Upgrade leather/wool to cloths
+- Butcher => Upgrade animals to meat
+
+
 
 
 Production <-> Welface
