@@ -5,7 +5,17 @@
 		"Title": "Apples",
 		"Price": 10,
 		"Categories": ["CATEGORY_FOOD"],
-		"Containers": ["CONTAINER_Basket", "CONTAINER_Bag", "CONTAINER_Barrel", "CONTAINER_Crate", "CONTAINER_Chest"]
+		"Containers": ["CONTAINER_Basket", "CONTAINER_Bag", "CONTAINER_Barrel", "CONTAINER_Crate", "CONTAINER_Chest"],
+		"Effect": [
+			{
+				"ID": "Food",
+				"Quantity": 5
+			},
+			{
+				"ID": "Population",
+				"XP": 5
+			}
+		]
 	},
 	{
 		"Name": "RESOURCE_Fish",
@@ -13,7 +23,13 @@
 		"Title": "Fish",
 		"Price": 20,
 		"Categories": ["CATEGORY_FOOD"],
-		"Containers": ["CONTAINER_Basket", "CONTAINER_Bag", "CONTAINER_Barrel", "CONTAINER_Crate", "CONTAINER_Chest"]
+		"Containers": ["CONTAINER_Basket", "CONTAINER_Bag", "CONTAINER_Barrel", "CONTAINER_Crate", "CONTAINER_Chest"],
+		"Effect": [
+			{
+				"ID": "Food",
+				"Quantity": 10
+			}
+		]
 	},
 	{
 		"Name": "RESOURCE_Ale",

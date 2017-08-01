@@ -1,0 +1,119 @@
+
+
+
+Do only one thing at a time, and do it well. If not, then do another thing.
+
+
+
+
+Household
+	- only trade with adjacent tiles?
+
+	
+	
+
+- Farm
+
+	+ 1 food to all adjacent houses (+1 wealth for each house)
+
+- Town square
+	+ 1 happiness to all adjacent houses (Does not stack)
+
+
+
+	
+	
+	
++ 1 food
++ 1 luxury
++ 2 intoxication(alcoholic)
+
+
+
++ 2 intoxication(narcotic)
+
+
+
+- Wether goods are precious or not is not dynamic. The city is just a small part of a larger network. Thus luxury goods are already defined.
+
+
+
+
+- Food => Population lv1 => Pop cap
+- Gold => Wealth
+- Ale => Intoxication(alcoholic)
+- Herbs => Wellness
+- Incense => Wellness, Wealth, Luxury
+- Wool
+- Leather
+- Tea
+- Silk
+- Spices
+- Bread
+- Meat
+- Cider
+- Wine
+- Fur
+- Books
+- Glass
+- Milk
+- Perfume
+- Pearls
+- Coffee
+- Chocolate
+- Wood/Timber
+- Precious woods
+- Tools
+- Stone
+- Rope
+- Weapons
+- Hemp
+- Linen
+- Cotton
+- Leather
+- Brocade
+- Candles
+- Metal 
+- Iron
+- Bronze
+- Tin
+- Mercury
+- Coal
+- Carcoal
+- Gems
+- Ivory
+- Jade
+- Salt
+- Tallow
+- Wax
+- Silver
+- Gold
+- Brick
+- Honey
+- Slaves
+- Whalebone
+- Livestock
+- Horses
+- Cows
+- Goats
+- Paper
+- Oil
+- Whaleoil
+- Ambergris
+- Indigo
+- Porcelain
+- Tobacco
+- Sugar
+- Apples
+
+
+Production <-> Welface
+Science <-> Faith
+Economy <-> Military
+
+
+
+
+
+
+https://thereitsmas.wordpress.com/lesson-plans/goods-and-trade/
