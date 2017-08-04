@@ -41,6 +41,9 @@ Household
 Wellness raises population cap?
 
 
+- Merchant running away from toll. Mark as criminal/suspect?
+
+
 - Food => Population lv1 => Pop cap
 - Gold => Wealth
 - Ale => Intoxication(alcoholic)
